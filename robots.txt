@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sewon-supernova.github.io/nexta-preview/sitemap.xml
+Sitemap: https://nexta.ltd/sitemap.xml
