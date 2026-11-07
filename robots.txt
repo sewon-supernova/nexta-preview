@@ -1,5 +1,6 @@
 User-agent: *
 Disallow: /tools/
+Disallow: /tiktok/tools/
 Allow: /
 
 Sitemap: https://nexta.ltd/sitemap.xml
